@@ -1,75 +1,110 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,19,20,24,30&text=DustyNora&fontSize=56&fontAlignY=38&desc=Crafting%20thoughtful%20Android%20experiences.&descAlignY=60&animation=fadeIn"/>
-
 # DustyNora
 
-Building software that feels right.
+### Crafting thoughtful Android experiences.
 
-Android • Open Source • UI Design
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DustyNora&show_icons=true&theme=transparent&hide_border=true&hide_title=true&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DustyNora&layout=compact&theme=transparent&hide_border=true&langs_count=6"/>
+**Android · Open Source · Design-minded Development**
 
 </div>
-
----
-
-## About
-
-I build Android applications and open-source software with a focus on clean interfaces, thoughtful customization, and long-term maintainability.
-
-Rather than adding unnecessary features, I enjoy refining the details that make software feel more natural and enjoyable to use.
 
 ---
 
 ## Featured Project
 
-### WeTyper
+# ⭐ WeTyper
 
-An open-source customization project for Tencent WeType focused on interface refinement, personalization, and a more polished Android typing experience.
+Open-source customization for **Tencent WeType**.
+
+Designed to create a cleaner interface, deeper personalization, and a more refined Android typing experience while respecting the original interaction philosophy.
+
+<p>
+
+<a href="https://github.com/DustyNora/WeTyper">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+<a href="https://github.com/DustyNora/WeTyper/releases">
+<img src="https://img.shields.io/github/v/release/DustyNora/WeTyper?style=flat-square">
+</a>
+
+<a href="https://github.com/DustyNora/WeTyper/stargazers">
+<img src="https://img.shields.io/github/stars/DustyNora/WeTyper?style=flat-square">
+</a>
+
+</p>
+
+### Highlights
+
+- Clean and consistent interface refinement
+
+- Thoughtful personalization
+
+- Native Android experience
+
+- Community-driven open-source development
 
 ---
 
-## Tech Stack
+## About
 
-<div align="center">
+I'm an Android developer who enjoys building software that feels intuitive, refined, and reliable.
 
-<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,c,cpp,python,html,css,git"/>
+My work focuses on Android customization, interface refinement, and open-source development, with an emphasis on long-term maintainability and thoughtful user experience.
 
-</div>
+Rather than adding unnecessary complexity, I enjoy improving the details that make software feel natural and enjoyable to use.
+
+---
+
+## GitHub Overview
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DustyNora&theme=github_dark" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DustyNora&theme=github" />
+    <img
+      alt="Profile Details"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DustyNora&theme=github_dark" />
+  </picture>
+</p>
+
+---
+
+## Technology
+
+### Languages
+
+`Java` · `Kotlin` · `C` · `C++` · `Python`
+
+### Android
+
+`Android Studio` · `Gradle`
+
+### Web
+
+`HTML` · `CSS`
 
 ---
 
 ## Connect
 
-<div align="center">
+<p>
 
-<a href="https://github.com/DustyNora">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/DustyNora">GitHub</a> ·
+<a href="https://ShiningDust.xyz">Website</a> ·
+<a href="https://t.me/Shining_Dust">Telegram</a> ·
+<a href="mailto:Shining_Dust@outlook.com">Outlook</a>
 
-<a href="https://ShiningDust.xyz">
-<img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://t.me/Shining_Dust">
-<img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="mailto:Shining_Dust@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-111111?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-*Built with curiosity, refined with care.*
+Built with curiosity, refined with care.
 
 </div>
