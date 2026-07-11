@@ -83,16 +83,16 @@ alt="GitHub Profile Summary">
 
 ## Contact
 
-GitHub  
+GitHub
 https://github.com/DustyNora
 
-Website  
+Website
 https://ShiningDust.xyz
 
-Telegram  
-https://t.me/Shining_Dust
+Telegram
+t.me/DustyNora
 
-Email  
+Email
 Shining_Dust@outlook.com
 
 ---
