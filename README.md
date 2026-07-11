@@ -90,10 +90,10 @@ Website
 https://ShiningDust.xyz
 
 Telegram
-t.me/DustyNora
+https://t.me/DustyNora
 
 Email
-Shining_Dust@outlook.com
+DustyNora@outlook.com
 
 ---
 
