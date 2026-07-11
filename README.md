@@ -2,50 +2,49 @@
 
 # DustyNora
 
-### Crafting thoughtful Android experiences.
+### Building thoughtful Android experiences.
 
-**Android · Open Source · UI Design**
+Android · Open Source · UI Design
 
 <br>
 
-Building software with a focus on clean interfaces,
-personalization, and refined user experience.
+I enjoy creating software with clean interfaces,
+practical customization, and attention to detail.
 
 </div>
 
 ---
 
-## Selected Work
+## About Me
 
-## ⭐ WeTyper
+I'm an Android developer interested in software customization, interface design, and open-source projects.
 
-An open-source customization project for Tencent WeType.
+My experience includes working with:
 
-Focused on Android customization, interface refinement, and creating a more polished typing experience.
+- Android development
+- UI customization
+- C / C++
+- Java
+- Python
+- HTML / CSS
 
-WeTyper explores how thoughtful details and personalization can improve everyday interaction.
-
-<br>
-
-<p>
-
-<a href="https://github.com/DustyNora/WeTyper">
-<img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-<a href="https://github.com/A-Kevin1217/WeTyper_Download/releases/download">
-<img src="https://img.shields.io/badge/Download-Release-181717?style=flat-square&logo=android&logoColor=white">
-</a>
-
-</p>
+I enjoy exploring how technology and design can work together to create better user experiences.
 
 ---
 
-## About
+## Featured Project
 
-I'm an Android developer interested in software customization, interface design, and open-source development.
+### WeTyper
 
-I enjoy improving existing experiences, exploring new ideas, and creating software that feels natural and enjoyable to use.
+An open-source customization project for Tencent WeType.
+
+Focused on Android customization, interface refinement, and improving everyday typing experiences through thoughtful details.
+
+Project:
+https://github.com/DustyNora/WeTyper
+
+Download:
+https://github.com/A-Kevin1217/WeTyper_Download/releases/download
 
 ---
 
@@ -70,84 +69,36 @@ alt="GitHub Profile Summary">
 
 </p>
 
-<p align="center">
-
-<picture>
-<source 
-media="(prefers-color-scheme: dark)"
-srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DustyNora&theme=github_dark">
-
-<source 
-media="(prefers-color-scheme: light)"
-srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DustyNora&theme=github">
-
-<img 
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DustyNora&theme=github_dark"
-alt="Languages">
-
-</picture>
-
-
-<picture>
-<source 
-media="(prefers-color-scheme: dark)"
-srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DustyNora&theme=github_dark">
-
-<source 
-media="(prefers-color-scheme: light)"
-srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DustyNora&theme=github">
-
-<img 
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DustyNora&theme=github_dark"
-alt="Statistics">
-
-</picture>
-
-</p>
-
 ---
 
 ## Technology
 
-### Languages
-C C++ Java Python HTML CSS
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,c,cpp,python,html,css,git">
+
+</p>
 
 ---
 
 ## Contact
 
-<p>
+GitHub  
+https://github.com/DustyNora
 
-<a href="https://github.com/DustyNora">
-GitHub
-</a>
+Website  
+https://ShiningDust.xyz
 
-&nbsp;·&nbsp;
+Telegram  
+https://t.me/Shining_Dust
 
-<a href="https://ShiningDust.xyz">
-Website
-</a>
-
-&nbsp;·&nbsp;
-
-<a href="https://t.me/Shining_Dust">
-Telegram
-</a>
-
-&nbsp;·&nbsp;
-
-<a href="mailto:Shining_Dust@outlook.com">
-Email
-</a>
-
-</p>
+Email  
+Shining_Dust@outlook.com
 
 ---
 
 <div align="center">
 
-Built with curiosity, refined with care.
+Thanks for visiting.
 
 </div>
