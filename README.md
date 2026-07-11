@@ -2,29 +2,16 @@
 
 # DustyNora
 
-### Building beautiful Android experiences.
+### Building elegant Android software.
 
-Android • Kotlin • Reverse Engineering • Material You • Open Source
+Android · Open Source · UI Design
 
 <br>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DustyNora&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    media="(prefers-color-scheme: dark)" />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=DustyNora&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DustyNora&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-    media="(prefers-color-scheme: dark)" />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DustyNora&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-</picture>
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DustyNora&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DustyNora&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+</p>
 
 </div>
 
@@ -32,41 +19,29 @@ Android • Kotlin • Reverse Engineering • Material You • Open Source
 
 ## About
 
-I'm an Android developer passionate about creating elegant software with clean architecture, refined UI, and thoughtful user experience.
+I'm an Android developer passionate about building modern applications and open-source projects.
 
-My current focus:
-
-- Android Development
-- Reverse Engineering
-- Input Method Customization
-- Material You
-- Modern UI / UX
-- Performance Optimization
-- Open Source
+My interests include clean interface design, thoughtful user experience, and creating software that feels natural to use.
 
 ---
 
 ## Featured Projects
 
-### Yc Input
+### 🌟 WeTyper
 
-A refined Android input method focused on beautiful interface design, smooth interaction, and lightweight performance.
-
-### WeTyper
-
-Advanced customization framework for Tencent WeType.
-
-### Material Theme Engine
-
-A dynamic color engine inspired by Material You.
+An open-source project focused on enhancing the Android typing experience through thoughtful customization and refined interface design.
 
 ---
 
-## Tech Stack
+More projects are continuously being explored and released.
+
+---
+
+## Technologies
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,cpp,git,github,linux,idea,figma"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,cpp,git,github,linux"/>
 
 </p>
 
@@ -74,25 +49,30 @@ A dynamic color engine inspired by Material You.
 
 ## Philosophy
 
-> Simplicity is not about having less.  
-> It's about making every detail matter.
+> Good software is not built by adding more.
+>
+> It's built by refining every detail.
 
 ---
 
-## Connect
+## Contact
 
 <p>
+
+<a href="https://github.com/DustyNora">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Shining_Dust">
+<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
 <a href="https://ShiningDust.xyz">
 <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://t.me/Shining_Dust">
-<img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
 <a href="mailto:Shining_Dust@outlook.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
 </p>
@@ -101,6 +81,6 @@ A dynamic color engine inspired by Material You.
 
 <div align="center">
 
-*"Building software that feels as beautiful as it works."*
+*"Less, but better."*
 
 </div>
