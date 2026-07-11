@@ -86,13 +86,13 @@ alt="GitHub Profile Summary">
 GitHub    
 https://github.com/DustyNora
 
-Website    
+Website      
 https://ShiningDust.xyz
 
 Telegram    
 https://t.me/DustyNora
 
-Email    
+Email      
 DustyNora@outlook.com
 
 ---
