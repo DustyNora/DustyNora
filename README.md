@@ -41,10 +41,10 @@ An open-source customization project for Tencent WeType.
 Focused on Android customization, interface refinement, and improving everyday typing experiences through thoughtful details.
 
 Project:
-https://github.com/DustyNora/WeTyper
+https://github.com/A-Kevin1217/WeTyper
 
 Download:
-https://github.com/A-Kevin1217/WeTyper_Download/releases/download
+https://github.com/A-Kevin1217/WeTyper_Download/releases
 
 ---
 
