@@ -1,86 +1,136 @@
+<!-- ========================================= -->
+<!-- Hero -->
+<!-- ========================================= -->
+
 <div align="center">
+
+<!-- Replace with your own banner -->
+<img src="./assets/banner-dark.png" alt="DustyNora Banner" width="100%">
+
+<br><br>
 
 # DustyNora
 
-### Building elegant Android software.
-
-Android · Open Source · UI Design
-
-<br>
+### Building software that feels right.
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DustyNora&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DustyNora&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+Android Developer • Open Source • UI Design
 </p>
 
 </div>
 
----
+<br>
 
-## About
+<!-- ========================================= -->
+<!-- GitHub Stats -->
+<!-- ========================================= -->
 
-I'm an Android developer passionate about building modern applications and open-source projects.
+<div align="center">
 
-My interests include clean interface design, thoughtful user experience, and creating software that feels natural to use.
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=DustyNora&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&hide_title=true"
+/>
 
----
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DustyNora&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+/>
 
-## Featured Projects
+</div>
 
-### 🌟 WeTyper
+<br>
 
-An open-source project focused on enhancing the Android typing experience through thoughtful customization and refined interface design.
+<!-- ========================================= -->
+<!-- Profile -->
+<!-- ========================================= -->
 
----
+## Profile
 
-More projects are continuously being explored and released.
+I enjoy building Android applications and open-source software with a strong focus on clean design, thoughtful customization, and refined user experiences.
 
----
+Most of my work revolves around improving usability through modern interfaces, performance optimization, and attention to detail.
 
-## Technologies
+<br>
 
-<p>
+<!-- ========================================= -->
+<!-- Featured -->
+<!-- ========================================= -->
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,cpp,git,github,linux"/>
+## Featured Project
 
-</p>
+### WeTyper
 
----
+An open-source customization project for Tencent WeType, focused on creating a cleaner interface, deeper personalization, and a more refined Android typing experience.
 
-## Philosophy
+> Designed with simplicity, consistency, and everyday usability in mind.
 
-> Good software is not built by adding more.
->
-> It's built by refining every detail.
+<br>
 
----
+<!-- ========================================= -->
+<!-- Tech Stack -->
+<!-- ========================================= -->
 
-## Contact
+## Tech Stack
 
-<p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,c,cpp,python,html,css,git"/>
+
+</div>
+
+<br>
+
+<!-- ========================================= -->
+<!-- Currently Exploring -->
+<!-- ========================================= -->
+
+## Currently Exploring
+
+- Android Framework
+- Reverse Engineering
+- Modern Android UI
+- Material Design
+- Open Source Development
+
+<br>
+
+<!-- ========================================= -->
+<!-- Connect -->
+<!-- ========================================= -->
+
+## Connect
+
+<div align="center">
 
 <a href="https://github.com/DustyNora">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://t.me/Shining_Dust">
-<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://ShiningDust.xyz">
-<img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://t.me/Shining_Dust">
+    <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <a href="mailto:Shining_Dust@outlook.com">
-<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Outlook-111111?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 </a>
 
-</p>
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-*"Less, but better."*
+### Thanks for stopping by.
+
+<sub>
+Built with curiosity, refined with care.
+</sub>
 
 </div>
