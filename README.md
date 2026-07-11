@@ -17,18 +17,18 @@ practical customization, and attention to detail.
 
 ## About Me
 
-I'm an Android developer interested in software customization, interface design, and open-source projects.
+I'm an Android enthusiast with a focus on customization. I spend my time building Xposed modules, refining user interfaces, and exploring open-source projects.
 
-My experience includes working with:
+Technologies I've worked with:
 
-- Android development
+- Android (Xposed module development, system tweaks)
 - UI customization
 - C / C++
 - Java
 - Python
 - HTML / CSS
 
-I enjoy exploring how technology and design can work together to create better user experiences.
+Learning is an endless journey.
 
 ---
 
